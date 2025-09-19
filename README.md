@@ -1,1 +1,1 @@
-# NaturalDisasterFine-TunedEarthMind
+# Natural Disaster Fine-Tuned EarthMind
