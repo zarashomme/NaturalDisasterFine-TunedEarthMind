@@ -1,0 +1,4242 @@
+[
+  {
+    "image_name": "ref_seg_79.jp2",
+    "question_id": 0,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_79_q0_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_79_q0_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_452.png"
+  },
+  {
+    "image_name": "ref_seg_79.jp2",
+    "question_id": 1,
+    "prompt": "Identify and segment agricultural land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_79_q1_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_79_q1_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_350.png"
+  },
+  {
+    "image_name": "ref_seg_79.jp2",
+    "question_id": 2,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_79_q2_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_79_q2_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_344.png"
+  },
+  {
+    "image_name": "ref_seg_79.jp2",
+    "question_id": 3,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_79_q3_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_79_q3_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_372.png"
+  },
+  {
+    "image_name": "ref_seg_79.jp2",
+    "question_id": 4,
+    "prompt": "Identify and segment railway and train station areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_79_q4_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_79_q4_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_316.png"
+  },
+  {
+    "image_name": "ref_seg_79.jp2",
+    "question_id": 5,
+    "prompt": "Identify and segment highway and square areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_79_q5_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_79_q5_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_328.png"
+  },
+  {
+    "image_name": "ref_seg_79.jp2",
+    "question_id": 6,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_79_q6_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_79_q6_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_107.png"
+  },
+  {
+    "image_name": "ref_seg_79.jp2",
+    "question_id": 7,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_79_q7_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_79_q7_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_480.png"
+  },
+  {
+    "image_name": "ref_seg_37.jp2",
+    "question_id": 8,
+    "prompt": "Identify and segment areas covered by forest in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_37_q8_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_37_q8_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_111.png"
+  },
+  {
+    "image_name": "ref_seg_37.jp2",
+    "question_id": 9,
+    "prompt": "Identify and segment agricultural land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_37_q9_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_37_q9_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_94.png"
+  },
+  {
+    "image_name": "ref_seg_37.jp2",
+    "question_id": 10,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_37_q10_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_37_q10_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_339.png"
+  },
+  {
+    "image_name": "ref_seg_37.jp2",
+    "question_id": 11,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_37_q11_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_37_q11_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_360.png"
+  },
+  {
+    "image_name": "ref_seg_37.jp2",
+    "question_id": 12,
+    "prompt": "Identify and segment railway and train station areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_37_q12_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_37_q12_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_444.png"
+  },
+  {
+    "image_name": "ref_seg_37.jp2",
+    "question_id": 13,
+    "prompt": "Identify and segment highway and square areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_37_q13_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_37_q13_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_462.png"
+  },
+  {
+    "image_name": "ref_seg_37.jp2",
+    "question_id": 14,
+    "prompt": "Identify and segment airport and shipyard areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_37_q14_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_37_q14_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_33.png"
+  },
+  {
+    "image_name": "ref_seg_37.jp2",
+    "question_id": 15,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_37_q15_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_37_q15_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_98.png"
+  },
+  {
+    "image_name": "ref_seg_37.jp2",
+    "question_id": 16,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_37_q16_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_37_q16_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_348.png"
+  },
+  {
+    "image_name": "ref_seg_34.jp2",
+    "question_id": 17,
+    "prompt": "Identify and segment areas covered by forest in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_34_q17_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_34_q17_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_224.png"
+  },
+  {
+    "image_name": "ref_seg_34.jp2",
+    "question_id": 18,
+    "prompt": "Identify and segment agricultural land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_34_q18_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_34_q18_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_223.png"
+  },
+  {
+    "image_name": "ref_seg_34.jp2",
+    "question_id": 19,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_34_q19_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_34_q19_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_496.png"
+  },
+  {
+    "image_name": "ref_seg_34.jp2",
+    "question_id": 20,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_34_q20_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_34_q20_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_422.png"
+  },
+  {
+    "image_name": "ref_seg_34.jp2",
+    "question_id": 21,
+    "prompt": "Identify and segment railway and train station areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_34_q21_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_34_q21_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_377.png"
+  },
+  {
+    "image_name": "ref_seg_34.jp2",
+    "question_id": 22,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_34_q22_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_34_q22_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_13.png"
+  },
+  {
+    "image_name": "ref_seg_34.jp2",
+    "question_id": 23,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_34_q23_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_34_q23_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_191.png"
+  },
+  {
+    "image_name": "ref_seg_36.jp2",
+    "question_id": 24,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_36_q24_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_36_q24_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_257.png"
+  },
+  {
+    "image_name": "ref_seg_36.jp2",
+    "question_id": 25,
+    "prompt": "Identify and segment agricultural land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_36_q25_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_36_q25_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_514.png"
+  },
+  {
+    "image_name": "ref_seg_36.jp2",
+    "question_id": 26,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_36_q26_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_36_q26_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_213.png"
+  },
+  {
+    "image_name": "ref_seg_36.jp2",
+    "question_id": 27,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_36_q27_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_36_q27_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_311.png"
+  },
+  {
+    "image_name": "ref_seg_36.jp2",
+    "question_id": 28,
+    "prompt": "Identify and segment highway and square areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_36_q28_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_36_q28_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_499.png"
+  },
+  {
+    "image_name": "ref_seg_36.jp2",
+    "question_id": 29,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_36_q29_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_36_q29_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_186.png"
+  },
+  {
+    "image_name": "ref_seg_36.jp2",
+    "question_id": 30,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_36_q30_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_36_q30_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_45.png"
+  },
+  {
+    "image_name": "ref_seg_31.jp2",
+    "question_id": 31,
+    "prompt": "Identify and segment areas covered by forest in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_31_q31_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_31_q31_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_471.png"
+  },
+  {
+    "image_name": "ref_seg_31.jp2",
+    "question_id": 32,
+    "prompt": "Identify and segment agricultural land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_31_q32_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_31_q32_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_105.png"
+  },
+  {
+    "image_name": "ref_seg_31.jp2",
+    "question_id": 33,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_31_q33_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_31_q33_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_228.png"
+  },
+  {
+    "image_name": "ref_seg_31.jp2",
+    "question_id": 34,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_31_q34_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_31_q34_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_310.png"
+  },
+  {
+    "image_name": "ref_seg_31.jp2",
+    "question_id": 35,
+    "prompt": "Identify and segment highway and square areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_31_q35_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_31_q35_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_12.png"
+  },
+  {
+    "image_name": "ref_seg_31.jp2",
+    "question_id": 36,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_31_q36_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_31_q36_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_381.png"
+  },
+  {
+    "image_name": "ref_seg_31.jp2",
+    "question_id": 37,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_31_q37_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_31_q37_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_503.png"
+  },
+  {
+    "image_name": "ref_seg_11.jp2",
+    "question_id": 38,
+    "prompt": "Identify and segment areas covered by forest in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_11_q38_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_11_q38_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_334.png"
+  },
+  {
+    "image_name": "ref_seg_11.jp2",
+    "question_id": 39,
+    "prompt": "Identify and segment agricultural land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_11_q39_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_11_q39_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_134.png"
+  },
+  {
+    "image_name": "ref_seg_11.jp2",
+    "question_id": 40,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_11_q40_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_11_q40_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_261.png"
+  },
+  {
+    "image_name": "ref_seg_11.jp2",
+    "question_id": 41,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_11_q41_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_11_q41_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_215.png"
+  },
+  {
+    "image_name": "ref_seg_11.jp2",
+    "question_id": 42,
+    "prompt": "Identify and segment highway and square areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_11_q42_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_11_q42_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_249.png"
+  },
+  {
+    "image_name": "ref_seg_11.jp2",
+    "question_id": 43,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_11_q43_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_11_q43_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_197.png"
+  },
+  {
+    "image_name": "ref_seg_11.jp2",
+    "question_id": 44,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_11_q44_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_11_q44_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_88.png"
+  },
+  {
+    "image_name": "ref_seg_28.jp2",
+    "question_id": 45,
+    "prompt": "Identify and segment areas covered by forest in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_28_q45_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_28_q45_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_51.png"
+  },
+  {
+    "image_name": "ref_seg_28.jp2",
+    "question_id": 46,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_28_q46_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_28_q46_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_482.png"
+  },
+  {
+    "image_name": "ref_seg_28.jp2",
+    "question_id": 47,
+    "prompt": "Identify and segment agricultural land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_28_q47_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_28_q47_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_501.png"
+  },
+  {
+    "image_name": "ref_seg_28.jp2",
+    "question_id": 48,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_28_q48_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_28_q48_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_277.png"
+  },
+  {
+    "image_name": "ref_seg_28.jp2",
+    "question_id": 49,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_28_q49_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_28_q49_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_336.png"
+  },
+  {
+    "image_name": "ref_seg_28.jp2",
+    "question_id": 50,
+    "prompt": "Identify and segment highway and square areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_28_q50_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_28_q50_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_55.png"
+  },
+  {
+    "image_name": "ref_seg_28.jp2",
+    "question_id": 51,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_28_q51_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_28_q51_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_375.png"
+  },
+  {
+    "image_name": "ref_seg_28.jp2",
+    "question_id": 52,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_28_q52_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_28_q52_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_481.png"
+  },
+  {
+    "image_name": "ref_seg_57.jp2",
+    "question_id": 53,
+    "prompt": "Identify and segment areas covered by forest in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_57_q53_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_57_q53_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_243.png"
+  },
+  {
+    "image_name": "ref_seg_57.jp2",
+    "question_id": 54,
+    "prompt": "Identify and segment agricultural land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_57_q54_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_57_q54_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_473.png"
+  },
+  {
+    "image_name": "ref_seg_57.jp2",
+    "question_id": 55,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_57_q55_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_57_q55_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_296.png"
+  },
+  {
+    "image_name": "ref_seg_57.jp2",
+    "question_id": 56,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_57_q56_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_57_q56_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_395.png"
+  },
+  {
+    "image_name": "ref_seg_57.jp2",
+    "question_id": 57,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_57_q57_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_57_q57_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_148.png"
+  },
+  {
+    "image_name": "ref_seg_57.jp2",
+    "question_id": 58,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_57_q58_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_57_q58_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_370.png"
+  },
+  {
+    "image_name": "ref_seg_8.jp2",
+    "question_id": 59,
+    "prompt": "Identify and segment areas covered by forest in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_8_q59_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_8_q59_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_366.png"
+  },
+  {
+    "image_name": "ref_seg_8.jp2",
+    "question_id": 60,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_8_q60_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_8_q60_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_266.png"
+  },
+  {
+    "image_name": "ref_seg_8.jp2",
+    "question_id": 61,
+    "prompt": "Identify and segment agricultural land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_8_q61_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_8_q61_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_195.png"
+  },
+  {
+    "image_name": "ref_seg_8.jp2",
+    "question_id": 62,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_8_q62_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_8_q62_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_317.png"
+  },
+  {
+    "image_name": "ref_seg_8.jp2",
+    "question_id": 63,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_8_q63_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_8_q63_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_497.png"
+  },
+  {
+    "image_name": "ref_seg_8.jp2",
+    "question_id": 64,
+    "prompt": "Identify and segment highway and square areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_8_q64_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_8_q64_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_131.png"
+  },
+  {
+    "image_name": "ref_seg_8.jp2",
+    "question_id": 65,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_8_q65_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_8_q65_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_528.png"
+  },
+  {
+    "image_name": "ref_seg_8.jp2",
+    "question_id": 66,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_8_q66_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_8_q66_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_287.png"
+  },
+  {
+    "image_name": "ref_seg_48.jp2",
+    "question_id": 67,
+    "prompt": "Identify and segment agricultural land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_48_q67_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_48_q67_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_441.png"
+  },
+  {
+    "image_name": "ref_seg_48.jp2",
+    "question_id": 68,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_48_q68_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_48_q68_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_247.png"
+  },
+  {
+    "image_name": "ref_seg_48.jp2",
+    "question_id": 69,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_48_q69_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_48_q69_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_509.png"
+  },
+  {
+    "image_name": "ref_seg_48.jp2",
+    "question_id": 70,
+    "prompt": "Identify and segment highway and square areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_48_q70_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_48_q70_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_413.png"
+  },
+  {
+    "image_name": "ref_seg_48.jp2",
+    "question_id": 71,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_48_q71_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_48_q71_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_289.png"
+  },
+  {
+    "image_name": "ref_seg_48.jp2",
+    "question_id": 72,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_48_q72_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_48_q72_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_219.png"
+  },
+  {
+    "image_name": "ref_seg_27.jp2",
+    "question_id": 73,
+    "prompt": "Identify and segment airport and shipyard areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_27_q73_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_27_q73_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_520.png"
+  },
+  {
+    "image_name": "ref_seg_27.jp2",
+    "question_id": 74,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_27_q74_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_27_q74_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_272.png"
+  },
+  {
+    "image_name": "ref_seg_27.jp2",
+    "question_id": 75,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_27_q75_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_27_q75_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_235.png"
+  },
+  {
+    "image_name": "ref_seg_13.jp2",
+    "question_id": 76,
+    "prompt": "Identify and segment areas covered by forest in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_13_q76_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_13_q76_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_507.png"
+  },
+  {
+    "image_name": "ref_seg_13.jp2",
+    "question_id": 77,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_13_q77_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_13_q77_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_83.png"
+  },
+  {
+    "image_name": "ref_seg_13.jp2",
+    "question_id": 78,
+    "prompt": "Identify and segment agricultural land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_13_q78_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_13_q78_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_184.png"
+  },
+  {
+    "image_name": "ref_seg_13.jp2",
+    "question_id": 79,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_13_q79_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_13_q79_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_222.png"
+  },
+  {
+    "image_name": "ref_seg_13.jp2",
+    "question_id": 80,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_13_q80_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_13_q80_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_427.png"
+  },
+  {
+    "image_name": "ref_seg_13.jp2",
+    "question_id": 81,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_13_q81_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_13_q81_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_173.png"
+  },
+  {
+    "image_name": "ref_seg_6.jp2",
+    "question_id": 82,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_6_q82_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_6_q82_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_386.png"
+  },
+  {
+    "image_name": "ref_seg_6.jp2",
+    "question_id": 83,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_6_q83_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_6_q83_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_163.png"
+  },
+  {
+    "image_name": "ref_seg_6.jp2",
+    "question_id": 84,
+    "prompt": "Identify and segment highway and square areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_6_q84_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_6_q84_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_265.png"
+  },
+  {
+    "image_name": "ref_seg_6.jp2",
+    "question_id": 85,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_6_q85_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_6_q85_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_428.png"
+  },
+  {
+    "image_name": "ref_seg_6.jp2",
+    "question_id": 86,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_6_q86_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_6_q86_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_227.png"
+  },
+  {
+    "image_name": "ref_seg_58.jp2",
+    "question_id": 87,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_58_q87_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_58_q87_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_401.png"
+  },
+  {
+    "image_name": "ref_seg_58.jp2",
+    "question_id": 88,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_58_q88_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_58_q88_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_220.png"
+  },
+  {
+    "image_name": "ref_seg_58.jp2",
+    "question_id": 89,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_58_q89_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_58_q89_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_294.png"
+  },
+  {
+    "image_name": "ref_seg_7.jp2",
+    "question_id": 90,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_7_q90_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_7_q90_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_323.png"
+  },
+  {
+    "image_name": "ref_seg_7.jp2",
+    "question_id": 91,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_7_q91_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_7_q91_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_146.png"
+  },
+  {
+    "image_name": "ref_seg_7.jp2",
+    "question_id": 92,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_7_q92_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_7_q92_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_110.png"
+  },
+  {
+    "image_name": "ref_seg_7.jp2",
+    "question_id": 93,
+    "prompt": "Identify and segment railway and train station areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_7_q93_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_7_q93_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_126.png"
+  },
+  {
+    "image_name": "ref_seg_7.jp2",
+    "question_id": 94,
+    "prompt": "Identify and segment highway and square areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_7_q94_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_7_q94_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_353.png"
+  },
+  {
+    "image_name": "ref_seg_7.jp2",
+    "question_id": 95,
+    "prompt": "Identify and segment airport and shipyard areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_7_q95_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_7_q95_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_421.png"
+  },
+  {
+    "image_name": "ref_seg_7.jp2",
+    "question_id": 96,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_7_q96_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_7_q96_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_304.png"
+  },
+  {
+    "image_name": "ref_seg_7.jp2",
+    "question_id": 97,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_7_q97_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_7_q97_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_267.png"
+  },
+  {
+    "image_name": "ref_seg_4.jp2",
+    "question_id": 98,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_4_q98_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_4_q98_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_144.png"
+  },
+  {
+    "image_name": "ref_seg_4.jp2",
+    "question_id": 99,
+    "prompt": "Identify and segment agricultural land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_4_q99_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_4_q99_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_382.png"
+  },
+  {
+    "image_name": "ref_seg_4.jp2",
+    "question_id": 100,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_4_q100_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_4_q100_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_445.png"
+  },
+  {
+    "image_name": "ref_seg_4.jp2",
+    "question_id": 101,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_4_q101_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_4_q101_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_470.png"
+  },
+  {
+    "image_name": "ref_seg_4.jp2",
+    "question_id": 102,
+    "prompt": "Identify and segment highway and square areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_4_q102_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_4_q102_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_475.png"
+  },
+  {
+    "image_name": "ref_seg_4.jp2",
+    "question_id": 103,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_4_q103_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_4_q103_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_318.png"
+  },
+  {
+    "image_name": "ref_seg_4.jp2",
+    "question_id": 104,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_4_q104_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_4_q104_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_505.png"
+  },
+  {
+    "image_name": "ref_seg_91.jp2",
+    "question_id": 105,
+    "prompt": "Identify and segment areas covered by forest in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_91_q105_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_91_q105_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_139.png"
+  },
+  {
+    "image_name": "ref_seg_91.jp2",
+    "question_id": 106,
+    "prompt": "Identify and segment agricultural land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_91_q106_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_91_q106_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_142.png"
+  },
+  {
+    "image_name": "ref_seg_91.jp2",
+    "question_id": 107,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_91_q107_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_91_q107_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_307.png"
+  },
+  {
+    "image_name": "ref_seg_91.jp2",
+    "question_id": 108,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_91_q108_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_91_q108_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_364.png"
+  },
+  {
+    "image_name": "ref_seg_91.jp2",
+    "question_id": 109,
+    "prompt": "Identify and segment highway and square areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_91_q109_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_91_q109_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_404.png"
+  },
+  {
+    "image_name": "ref_seg_91.jp2",
+    "question_id": 110,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_91_q110_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_91_q110_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_529.png"
+  },
+  {
+    "image_name": "ref_seg_91.jp2",
+    "question_id": 111,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_91_q111_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_91_q111_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_209.png"
+  },
+  {
+    "image_name": "ref_seg_94.jp2",
+    "question_id": 112,
+    "prompt": "Identify and segment areas covered by forest in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_94_q112_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_94_q112_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_468.png"
+  },
+  {
+    "image_name": "ref_seg_94.jp2",
+    "question_id": 113,
+    "prompt": "Identify and segment agricultural land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_94_q113_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_94_q113_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_374.png"
+  },
+  {
+    "image_name": "ref_seg_94.jp2",
+    "question_id": 114,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_94_q114_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_94_q114_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_391.png"
+  },
+  {
+    "image_name": "ref_seg_94.jp2",
+    "question_id": 115,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_94_q115_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_94_q115_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_330.png"
+  },
+  {
+    "image_name": "ref_seg_94.jp2",
+    "question_id": 116,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_94_q116_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_94_q116_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_109.png"
+  },
+  {
+    "image_name": "ref_seg_21.jp2",
+    "question_id": 117,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_21_q117_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_21_q117_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_412.png"
+  },
+  {
+    "image_name": "ref_seg_21.jp2",
+    "question_id": 118,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_21_q118_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_21_q118_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_238.png"
+  },
+  {
+    "image_name": "ref_seg_21.jp2",
+    "question_id": 119,
+    "prompt": "Identify and segment highway and square areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_21_q119_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_21_q119_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_141.png"
+  },
+  {
+    "image_name": "ref_seg_21.jp2",
+    "question_id": 120,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_21_q120_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_21_q120_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_415.png"
+  },
+  {
+    "image_name": "ref_seg_21.jp2",
+    "question_id": 121,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_21_q121_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_21_q121_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_106.png"
+  },
+  {
+    "image_name": "ref_seg_63.jp2",
+    "question_id": 122,
+    "prompt": "Identify and segment areas covered by forest in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_63_q122_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_63_q122_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_526.png"
+  },
+  {
+    "image_name": "ref_seg_63.jp2",
+    "question_id": 123,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_63_q123_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_63_q123_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_474.png"
+  },
+  {
+    "image_name": "ref_seg_63.jp2",
+    "question_id": 124,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_63_q124_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_63_q124_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_275.png"
+  },
+  {
+    "image_name": "ref_seg_63.jp2",
+    "question_id": 125,
+    "prompt": "Identify and segment railway and train station areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_63_q125_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_63_q125_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_442.png"
+  },
+  {
+    "image_name": "ref_seg_63.jp2",
+    "question_id": 126,
+    "prompt": "Identify and segment highway and square areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_63_q126_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_63_q126_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_176.png"
+  },
+  {
+    "image_name": "ref_seg_63.jp2",
+    "question_id": 127,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_63_q127_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_63_q127_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_356.png"
+  },
+  {
+    "image_name": "ref_seg_63.jp2",
+    "question_id": 128,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_63_q128_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_63_q128_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_290.png"
+  },
+  {
+    "image_name": "ref_seg_89.jp2",
+    "question_id": 129,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_89_q129_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_89_q129_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_89.png"
+  },
+  {
+    "image_name": "ref_seg_89.jp2",
+    "question_id": 130,
+    "prompt": "Identify and segment agricultural land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_89_q130_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_89_q130_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_20.png"
+  },
+  {
+    "image_name": "ref_seg_89.jp2",
+    "question_id": 131,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_89_q131_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_89_q131_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_400.png"
+  },
+  {
+    "image_name": "ref_seg_89.jp2",
+    "question_id": 132,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_89_q132_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_89_q132_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_508.png"
+  },
+  {
+    "image_name": "ref_seg_89.jp2",
+    "question_id": 133,
+    "prompt": "Identify and segment highway and square areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_89_q133_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_89_q133_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_95.png"
+  },
+  {
+    "image_name": "ref_seg_89.jp2",
+    "question_id": 134,
+    "prompt": "Identify and segment airport and shipyard areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_89_q134_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_89_q134_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_420.png"
+  },
+  {
+    "image_name": "ref_seg_89.jp2",
+    "question_id": 135,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_89_q135_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_89_q135_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_250.png"
+  },
+  {
+    "image_name": "ref_seg_89.jp2",
+    "question_id": 136,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_89_q136_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_89_q136_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_103.png"
+  },
+  {
+    "image_name": "ref_seg_75.jp2",
+    "question_id": 137,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_75_q137_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_75_q137_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_15.png"
+  },
+  {
+    "image_name": "ref_seg_75.jp2",
+    "question_id": 138,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_75_q138_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_75_q138_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_145.png"
+  },
+  {
+    "image_name": "ref_seg_75.jp2",
+    "question_id": 139,
+    "prompt": "Identify and segment railway and train station areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_75_q139_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_75_q139_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_295.png"
+  },
+  {
+    "image_name": "ref_seg_75.jp2",
+    "question_id": 140,
+    "prompt": "Identify and segment highway and square areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_75_q140_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_75_q140_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_170.png"
+  },
+  {
+    "image_name": "ref_seg_75.jp2",
+    "question_id": 141,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_75_q141_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_75_q141_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_388.png"
+  },
+  {
+    "image_name": "ref_seg_75.jp2",
+    "question_id": 142,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_75_q142_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_75_q142_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_268.png"
+  },
+  {
+    "image_name": "ref_seg_38.jp2",
+    "question_id": 143,
+    "prompt": "Identify and segment areas covered by forest in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_38_q143_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_38_q143_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_232.png"
+  },
+  {
+    "image_name": "ref_seg_38.jp2",
+    "question_id": 144,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_38_q144_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_38_q144_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_337.png"
+  },
+  {
+    "image_name": "ref_seg_38.jp2",
+    "question_id": 145,
+    "prompt": "Identify and segment agricultural land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_38_q145_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_38_q145_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_25.png"
+  },
+  {
+    "image_name": "ref_seg_38.jp2",
+    "question_id": 146,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_38_q146_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_38_q146_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_347.png"
+  },
+  {
+    "image_name": "ref_seg_38.jp2",
+    "question_id": 147,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_38_q147_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_38_q147_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_426.png"
+  },
+  {
+    "image_name": "ref_seg_38.jp2",
+    "question_id": 148,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_38_q148_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_38_q148_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_52.png"
+  },
+  {
+    "image_name": "ref_seg_51.jp2",
+    "question_id": 149,
+    "prompt": "Identify and segment areas covered by forest in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_51_q149_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_51_q149_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_117.png"
+  },
+  {
+    "image_name": "ref_seg_51.jp2",
+    "question_id": 150,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_51_q150_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_51_q150_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_218.png"
+  },
+  {
+    "image_name": "ref_seg_51.jp2",
+    "question_id": 151,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_51_q151_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_51_q151_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_64.png"
+  },
+  {
+    "image_name": "ref_seg_51.jp2",
+    "question_id": 152,
+    "prompt": "Identify and segment railway and train station areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_51_q152_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_51_q152_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_487.png"
+  },
+  {
+    "image_name": "ref_seg_51.jp2",
+    "question_id": 153,
+    "prompt": "Identify and segment highway and square areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_51_q153_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_51_q153_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_156.png"
+  },
+  {
+    "image_name": "ref_seg_51.jp2",
+    "question_id": 154,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_51_q154_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_51_q154_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_369.png"
+  },
+  {
+    "image_name": "ref_seg_51.jp2",
+    "question_id": 155,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_51_q155_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_51_q155_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_73.png"
+  },
+  {
+    "image_name": "ref_seg_41.jp2",
+    "question_id": 156,
+    "prompt": "Identify and segment areas covered by forest in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_41_q156_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_41_q156_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_11.png"
+  },
+  {
+    "image_name": "ref_seg_41.jp2",
+    "question_id": 157,
+    "prompt": "Identify and segment agricultural land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_41_q157_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_41_q157_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_492.png"
+  },
+  {
+    "image_name": "ref_seg_41.jp2",
+    "question_id": 158,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_41_q158_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_41_q158_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_70.png"
+  },
+  {
+    "image_name": "ref_seg_41.jp2",
+    "question_id": 159,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_41_q159_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_41_q159_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_174.png"
+  },
+  {
+    "image_name": "ref_seg_41.jp2",
+    "question_id": 160,
+    "prompt": "Identify and segment highway and square areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_41_q160_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_41_q160_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_230.png"
+  },
+  {
+    "image_name": "ref_seg_41.jp2",
+    "question_id": 161,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_41_q161_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_41_q161_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_182.png"
+  },
+  {
+    "image_name": "ref_seg_41.jp2",
+    "question_id": 162,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_41_q162_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_41_q162_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_198.png"
+  },
+  {
+    "image_name": "ref_seg_96.jp2",
+    "question_id": 163,
+    "prompt": "Identify and segment areas covered by forest in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_96_q163_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_96_q163_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_84.png"
+  },
+  {
+    "image_name": "ref_seg_96.jp2",
+    "question_id": 164,
+    "prompt": "Identify and segment agricultural land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_96_q164_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_96_q164_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_256.png"
+  },
+  {
+    "image_name": "ref_seg_96.jp2",
+    "question_id": 165,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_96_q165_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_96_q165_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_1.png"
+  },
+  {
+    "image_name": "ref_seg_96.jp2",
+    "question_id": 166,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_96_q166_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_96_q166_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_273.png"
+  },
+  {
+    "image_name": "ref_seg_96.jp2",
+    "question_id": 167,
+    "prompt": "Identify and segment highway and square areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_96_q167_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_96_q167_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_225.png"
+  },
+  {
+    "image_name": "ref_seg_96.jp2",
+    "question_id": 168,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_96_q168_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_96_q168_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_128.png"
+  },
+  {
+    "image_name": "ref_seg_96.jp2",
+    "question_id": 169,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_96_q169_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_96_q169_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_439.png"
+  },
+  {
+    "image_name": "ref_seg_52.jp2",
+    "question_id": 170,
+    "prompt": "Identify and segment areas covered by forest in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_52_q170_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_52_q170_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_66.png"
+  },
+  {
+    "image_name": "ref_seg_52.jp2",
+    "question_id": 171,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_52_q171_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_52_q171_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_147.png"
+  },
+  {
+    "image_name": "ref_seg_52.jp2",
+    "question_id": 172,
+    "prompt": "Identify and segment agricultural land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_52_q172_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_52_q172_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_269.png"
+  },
+  {
+    "image_name": "ref_seg_52.jp2",
+    "question_id": 173,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_52_q173_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_52_q173_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_210.png"
+  },
+  {
+    "image_name": "ref_seg_52.jp2",
+    "question_id": 174,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_52_q174_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_52_q174_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_446.png"
+  },
+  {
+    "image_name": "ref_seg_52.jp2",
+    "question_id": 175,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_52_q175_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_52_q175_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_99.png"
+  },
+  {
+    "image_name": "ref_seg_52.jp2",
+    "question_id": 176,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_52_q176_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_52_q176_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_368.png"
+  },
+  {
+    "image_name": "ref_seg_90.jp2",
+    "question_id": 177,
+    "prompt": "Identify and segment areas covered by forest in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_90_q177_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_90_q177_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_150.png"
+  },
+  {
+    "image_name": "ref_seg_90.jp2",
+    "question_id": 178,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_90_q178_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_90_q178_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_352.png"
+  },
+  {
+    "image_name": "ref_seg_90.jp2",
+    "question_id": 179,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_90_q179_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_90_q179_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_297.png"
+  },
+  {
+    "image_name": "ref_seg_90.jp2",
+    "question_id": 180,
+    "prompt": "Identify and segment highway and square areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_90_q180_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_90_q180_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_124.png"
+  },
+  {
+    "image_name": "ref_seg_90.jp2",
+    "question_id": 181,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_90_q181_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_90_q181_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_279.png"
+  },
+  {
+    "image_name": "ref_seg_90.jp2",
+    "question_id": 182,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_90_q182_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_90_q182_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_351.png"
+  },
+  {
+    "image_name": "ref_seg_15.jp2",
+    "question_id": 183,
+    "prompt": "Identify and segment areas covered by forest in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_15_q183_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_15_q183_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_525.png"
+  },
+  {
+    "image_name": "ref_seg_15.jp2",
+    "question_id": 184,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_15_q184_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_15_q184_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_424.png"
+  },
+  {
+    "image_name": "ref_seg_15.jp2",
+    "question_id": 185,
+    "prompt": "Identify and segment agricultural land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_15_q185_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_15_q185_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_394.png"
+  },
+  {
+    "image_name": "ref_seg_15.jp2",
+    "question_id": 186,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_15_q186_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_15_q186_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_357.png"
+  },
+  {
+    "image_name": "ref_seg_15.jp2",
+    "question_id": 187,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_15_q187_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_15_q187_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_363.png"
+  },
+  {
+    "image_name": "ref_seg_15.jp2",
+    "question_id": 188,
+    "prompt": "Identify and segment highway and square areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_15_q188_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_15_q188_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_373.png"
+  },
+  {
+    "image_name": "ref_seg_15.jp2",
+    "question_id": 189,
+    "prompt": "Identify and segment airport and shipyard areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_15_q189_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_15_q189_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_385.png"
+  },
+  {
+    "image_name": "ref_seg_15.jp2",
+    "question_id": 190,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_15_q190_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_15_q190_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_440.png"
+  },
+  {
+    "image_name": "ref_seg_15.jp2",
+    "question_id": 191,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_15_q191_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_15_q191_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_376.png"
+  },
+  {
+    "image_name": "ref_seg_1.jp2",
+    "question_id": 192,
+    "prompt": "Identify and segment areas covered by forest in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_1_q192_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_1_q192_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_187.png"
+  },
+  {
+    "image_name": "ref_seg_1.jp2",
+    "question_id": 193,
+    "prompt": "Identify and segment agricultural land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_1_q193_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_1_q193_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_151.png"
+  },
+  {
+    "image_name": "ref_seg_1.jp2",
+    "question_id": 194,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_1_q194_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_1_q194_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_59.png"
+  },
+  {
+    "image_name": "ref_seg_1.jp2",
+    "question_id": 195,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_1_q195_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_1_q195_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_35.png"
+  },
+  {
+    "image_name": "ref_seg_1.jp2",
+    "question_id": 196,
+    "prompt": "Identify and segment highway and square areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_1_q196_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_1_q196_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_161.png"
+  },
+  {
+    "image_name": "ref_seg_1.jp2",
+    "question_id": 197,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_1_q197_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_1_q197_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_179.png"
+  },
+  {
+    "image_name": "ref_seg_1.jp2",
+    "question_id": 198,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_1_q198_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_1_q198_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_338.png"
+  },
+  {
+    "image_name": "ref_seg_30.jp2",
+    "question_id": 199,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_30_q199_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_30_q199_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_175.png"
+  },
+  {
+    "image_name": "ref_seg_30.jp2",
+    "question_id": 200,
+    "prompt": "Identify and segment highway and square areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_30_q200_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_30_q200_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_321.png"
+  },
+  {
+    "image_name": "ref_seg_30.jp2",
+    "question_id": 201,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_30_q201_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_30_q201_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_456.png"
+  },
+  {
+    "image_name": "ref_seg_30.jp2",
+    "question_id": 202,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_30_q202_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_30_q202_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_178.png"
+  },
+  {
+    "image_name": "ref_seg_92.jp2",
+    "question_id": 203,
+    "prompt": "Identify and segment areas covered by forest in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_92_q203_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_92_q203_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_81.png"
+  },
+  {
+    "image_name": "ref_seg_92.jp2",
+    "question_id": 204,
+    "prompt": "Identify and segment agricultural land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_92_q204_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_92_q204_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_314.png"
+  },
+  {
+    "image_name": "ref_seg_92.jp2",
+    "question_id": 205,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_92_q205_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_92_q205_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_516.png"
+  },
+  {
+    "image_name": "ref_seg_92.jp2",
+    "question_id": 206,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_92_q206_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_92_q206_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_204.png"
+  },
+  {
+    "image_name": "ref_seg_92.jp2",
+    "question_id": 207,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_92_q207_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_92_q207_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_402.png"
+  },
+  {
+    "image_name": "ref_seg_14.jp2",
+    "question_id": 208,
+    "prompt": "Identify and segment areas covered by forest in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_14_q208_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_14_q208_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_281.png"
+  },
+  {
+    "image_name": "ref_seg_14.jp2",
+    "question_id": 209,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_14_q209_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_14_q209_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_30.png"
+  },
+  {
+    "image_name": "ref_seg_14.jp2",
+    "question_id": 210,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_14_q210_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_14_q210_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_211.png"
+  },
+  {
+    "image_name": "ref_seg_14.jp2",
+    "question_id": 211,
+    "prompt": "Identify and segment highway and square areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_14_q211_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_14_q211_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_137.png"
+  },
+  {
+    "image_name": "ref_seg_14.jp2",
+    "question_id": 212,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_14_q212_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_14_q212_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_517.png"
+  },
+  {
+    "image_name": "ref_seg_14.jp2",
+    "question_id": 213,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_14_q213_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_14_q213_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_10.png"
+  },
+  {
+    "image_name": "ref_seg_2.jp2",
+    "question_id": 214,
+    "prompt": "Identify and segment areas covered by forest in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_2_q214_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_2_q214_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_23.png"
+  },
+  {
+    "image_name": "ref_seg_2.jp2",
+    "question_id": 215,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_2_q215_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_2_q215_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_114.png"
+  },
+  {
+    "image_name": "ref_seg_2.jp2",
+    "question_id": 216,
+    "prompt": "Identify and segment agricultural land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_2_q216_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_2_q216_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_65.png"
+  },
+  {
+    "image_name": "ref_seg_2.jp2",
+    "question_id": 217,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_2_q217_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_2_q217_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_97.png"
+  },
+  {
+    "image_name": "ref_seg_2.jp2",
+    "question_id": 218,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_2_q218_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_2_q218_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_312.png"
+  },
+  {
+    "image_name": "ref_seg_2.jp2",
+    "question_id": 219,
+    "prompt": "Identify and segment highway and square areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_2_q219_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_2_q219_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_201.png"
+  },
+  {
+    "image_name": "ref_seg_2.jp2",
+    "question_id": 220,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_2_q220_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_2_q220_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_292.png"
+  },
+  {
+    "image_name": "ref_seg_2.jp2",
+    "question_id": 221,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_2_q221_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_2_q221_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_355.png"
+  },
+  {
+    "image_name": "ref_seg_24.jp2",
+    "question_id": 222,
+    "prompt": "Identify and segment areas covered by forest in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_24_q222_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_24_q222_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_527.png"
+  },
+  {
+    "image_name": "ref_seg_24.jp2",
+    "question_id": 223,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_24_q223_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_24_q223_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_435.png"
+  },
+  {
+    "image_name": "ref_seg_24.jp2",
+    "question_id": 224,
+    "prompt": "Identify and segment agricultural land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_24_q224_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_24_q224_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_234.png"
+  },
+  {
+    "image_name": "ref_seg_24.jp2",
+    "question_id": 225,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_24_q225_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_24_q225_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_68.png"
+  },
+  {
+    "image_name": "ref_seg_24.jp2",
+    "question_id": 226,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_24_q226_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_24_q226_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_54.png"
+  },
+  {
+    "image_name": "ref_seg_24.jp2",
+    "question_id": 227,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_24_q227_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_24_q227_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_483.png"
+  },
+  {
+    "image_name": "ref_seg_24.jp2",
+    "question_id": 228,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_24_q228_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_24_q228_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_429.png"
+  },
+  {
+    "image_name": "ref_seg_33.jp2",
+    "question_id": 229,
+    "prompt": "Identify and segment areas covered by forest in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_33_q229_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_33_q229_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_53.png"
+  },
+  {
+    "image_name": "ref_seg_33.jp2",
+    "question_id": 230,
+    "prompt": "Identify and segment agricultural land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_33_q230_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_33_q230_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_157.png"
+  },
+  {
+    "image_name": "ref_seg_33.jp2",
+    "question_id": 231,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_33_q231_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_33_q231_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_251.png"
+  },
+  {
+    "image_name": "ref_seg_33.jp2",
+    "question_id": 232,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_33_q232_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_33_q232_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_22.png"
+  },
+  {
+    "image_name": "ref_seg_33.jp2",
+    "question_id": 233,
+    "prompt": "Identify and segment highway and square areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_33_q233_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_33_q233_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_153.png"
+  },
+  {
+    "image_name": "ref_seg_33.jp2",
+    "question_id": 234,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_33_q234_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_33_q234_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_443.png"
+  },
+  {
+    "image_name": "ref_seg_33.jp2",
+    "question_id": 235,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_33_q235_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_33_q235_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_104.png"
+  },
+  {
+    "image_name": "ref_seg_12.jp2",
+    "question_id": 236,
+    "prompt": "Identify and segment agricultural land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_12_q236_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_12_q236_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_299.png"
+  },
+  {
+    "image_name": "ref_seg_12.jp2",
+    "question_id": 237,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_12_q237_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_12_q237_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_278.png"
+  },
+  {
+    "image_name": "ref_seg_12.jp2",
+    "question_id": 238,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_12_q238_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_12_q238_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_248.png"
+  },
+  {
+    "image_name": "ref_seg_12.jp2",
+    "question_id": 239,
+    "prompt": "Identify and segment highway and square areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_12_q239_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_12_q239_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_34.png"
+  },
+  {
+    "image_name": "ref_seg_12.jp2",
+    "question_id": 240,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_12_q240_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_12_q240_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_216.png"
+  },
+  {
+    "image_name": "ref_seg_12.jp2",
+    "question_id": 241,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_12_q241_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_12_q241_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_246.png"
+  },
+  {
+    "image_name": "ref_seg_78.jp2",
+    "question_id": 242,
+    "prompt": "Identify and segment areas covered by forest in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_78_q242_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_78_q242_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_455.png"
+  },
+  {
+    "image_name": "ref_seg_78.jp2",
+    "question_id": 243,
+    "prompt": "Identify and segment agricultural land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_78_q243_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_78_q243_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_2.png"
+  },
+  {
+    "image_name": "ref_seg_78.jp2",
+    "question_id": 244,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_78_q244_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_78_q244_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_411.png"
+  },
+  {
+    "image_name": "ref_seg_78.jp2",
+    "question_id": 245,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_78_q245_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_78_q245_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_140.png"
+  },
+  {
+    "image_name": "ref_seg_78.jp2",
+    "question_id": 246,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_78_q246_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_78_q246_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_365.png"
+  },
+  {
+    "image_name": "ref_seg_78.jp2",
+    "question_id": 247,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_78_q247_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_78_q247_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_345.png"
+  },
+  {
+    "image_name": "ref_seg_26.jp2",
+    "question_id": 248,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_26_q248_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_26_q248_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_354.png"
+  },
+  {
+    "image_name": "ref_seg_26.jp2",
+    "question_id": 249,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_26_q249_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_26_q249_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_207.png"
+  },
+  {
+    "image_name": "ref_seg_26.jp2",
+    "question_id": 250,
+    "prompt": "Identify and segment railway and train station areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_26_q250_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_26_q250_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_461.png"
+  },
+  {
+    "image_name": "ref_seg_26.jp2",
+    "question_id": 251,
+    "prompt": "Identify and segment highway and square areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_26_q251_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_26_q251_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_100.png"
+  },
+  {
+    "image_name": "ref_seg_26.jp2",
+    "question_id": 252,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_26_q252_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_26_q252_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_436.png"
+  },
+  {
+    "image_name": "ref_seg_26.jp2",
+    "question_id": 253,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_26_q253_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_26_q253_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_308.png"
+  },
+  {
+    "image_name": "ref_seg_97.jp2",
+    "question_id": 254,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_97_q254_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_97_q254_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_48.png"
+  },
+  {
+    "image_name": "ref_seg_97.jp2",
+    "question_id": 255,
+    "prompt": "Identify and segment highway and square areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_97_q255_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_97_q255_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_78.png"
+  },
+  {
+    "image_name": "ref_seg_97.jp2",
+    "question_id": 256,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_97_q256_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_97_q256_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_522.png"
+  },
+  {
+    "image_name": "ref_seg_97.jp2",
+    "question_id": 257,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_97_q257_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_97_q257_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_113.png"
+  },
+  {
+    "image_name": "ref_seg_55.jp2",
+    "question_id": 258,
+    "prompt": "Identify and segment areas covered by forest in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_55_q258_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_55_q258_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_262.png"
+  },
+  {
+    "image_name": "ref_seg_55.jp2",
+    "question_id": 259,
+    "prompt": "Identify and segment agricultural land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_55_q259_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_55_q259_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_90.png"
+  },
+  {
+    "image_name": "ref_seg_55.jp2",
+    "question_id": 260,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_55_q260_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_55_q260_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_380.png"
+  },
+  {
+    "image_name": "ref_seg_55.jp2",
+    "question_id": 261,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_55_q261_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_55_q261_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_149.png"
+  },
+  {
+    "image_name": "ref_seg_55.jp2",
+    "question_id": 262,
+    "prompt": "Identify and segment highway and square areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_55_q262_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_55_q262_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_387.png"
+  },
+  {
+    "image_name": "ref_seg_55.jp2",
+    "question_id": 263,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_55_q263_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_55_q263_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_180.png"
+  },
+  {
+    "image_name": "ref_seg_55.jp2",
+    "question_id": 264,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_55_q264_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_55_q264_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_469.png"
+  },
+  {
+    "image_name": "ref_seg_71.jp2",
+    "question_id": 265,
+    "prompt": "Identify and segment areas covered by forest in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_71_q265_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_71_q265_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_378.png"
+  },
+  {
+    "image_name": "ref_seg_71.jp2",
+    "question_id": 266,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_71_q266_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_71_q266_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_60.png"
+  },
+  {
+    "image_name": "ref_seg_71.jp2",
+    "question_id": 267,
+    "prompt": "Identify and segment agricultural land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_71_q267_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_71_q267_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_409.png"
+  },
+  {
+    "image_name": "ref_seg_71.jp2",
+    "question_id": 268,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_71_q268_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_71_q268_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_9.png"
+  },
+  {
+    "image_name": "ref_seg_71.jp2",
+    "question_id": 269,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_71_q269_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_71_q269_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_57.png"
+  },
+  {
+    "image_name": "ref_seg_71.jp2",
+    "question_id": 270,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_71_q270_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_71_q270_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_390.png"
+  },
+  {
+    "image_name": "ref_seg_71.jp2",
+    "question_id": 271,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_71_q271_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_71_q271_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_518.png"
+  },
+  {
+    "image_name": "ref_seg_87.jp2",
+    "question_id": 272,
+    "prompt": "Identify and segment areas covered by forest in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_87_q272_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_87_q272_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_155.png"
+  },
+  {
+    "image_name": "ref_seg_87.jp2",
+    "question_id": 273,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_87_q273_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_87_q273_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_28.png"
+  },
+  {
+    "image_name": "ref_seg_87.jp2",
+    "question_id": 274,
+    "prompt": "Identify and segment agricultural land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_87_q274_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_87_q274_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_410.png"
+  },
+  {
+    "image_name": "ref_seg_87.jp2",
+    "question_id": 275,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_87_q275_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_87_q275_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_255.png"
+  },
+  {
+    "image_name": "ref_seg_87.jp2",
+    "question_id": 276,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_87_q276_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_87_q276_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_108.png"
+  },
+  {
+    "image_name": "ref_seg_87.jp2",
+    "question_id": 277,
+    "prompt": "Identify and segment highway and square areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_87_q277_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_87_q277_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_349.png"
+  },
+  {
+    "image_name": "ref_seg_87.jp2",
+    "question_id": 278,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_87_q278_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_87_q278_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_132.png"
+  },
+  {
+    "image_name": "ref_seg_87.jp2",
+    "question_id": 279,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_87_q279_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_87_q279_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_458.png"
+  },
+  {
+    "image_name": "ref_seg_54.jp2",
+    "question_id": 280,
+    "prompt": "Identify and segment areas covered by forest in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_54_q280_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_54_q280_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_448.png"
+  },
+  {
+    "image_name": "ref_seg_54.jp2",
+    "question_id": 281,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_54_q281_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_54_q281_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_419.png"
+  },
+  {
+    "image_name": "ref_seg_54.jp2",
+    "question_id": 282,
+    "prompt": "Identify and segment agricultural land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_54_q282_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_54_q282_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_285.png"
+  },
+  {
+    "image_name": "ref_seg_54.jp2",
+    "question_id": 283,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_54_q283_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_54_q283_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_253.png"
+  },
+  {
+    "image_name": "ref_seg_54.jp2",
+    "question_id": 284,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_54_q284_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_54_q284_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_159.png"
+  },
+  {
+    "image_name": "ref_seg_54.jp2",
+    "question_id": 285,
+    "prompt": "Identify and segment railway and train station areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_54_q285_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_54_q285_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_447.png"
+  },
+  {
+    "image_name": "ref_seg_54.jp2",
+    "question_id": 286,
+    "prompt": "Identify and segment highway and square areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_54_q286_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_54_q286_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_306.png"
+  },
+  {
+    "image_name": "ref_seg_54.jp2",
+    "question_id": 287,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_54_q287_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_54_q287_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_177.png"
+  },
+  {
+    "image_name": "ref_seg_54.jp2",
+    "question_id": 288,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_54_q288_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_54_q288_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_74.png"
+  },
+  {
+    "image_name": "ref_seg_68.jp2",
+    "question_id": 289,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_68_q289_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_68_q289_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_42.png"
+  },
+  {
+    "image_name": "ref_seg_68.jp2",
+    "question_id": 290,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_68_q290_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_68_q290_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_122.png"
+  },
+  {
+    "image_name": "ref_seg_68.jp2",
+    "question_id": 291,
+    "prompt": "Identify and segment railway and train station areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_68_q291_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_68_q291_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_302.png"
+  },
+  {
+    "image_name": "ref_seg_68.jp2",
+    "question_id": 292,
+    "prompt": "Identify and segment highway and square areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_68_q292_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_68_q292_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_26.png"
+  },
+  {
+    "image_name": "ref_seg_68.jp2",
+    "question_id": 293,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_68_q293_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_68_q293_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_240.png"
+  },
+  {
+    "image_name": "ref_seg_68.jp2",
+    "question_id": 294,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_68_q294_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_68_q294_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_396.png"
+  },
+  {
+    "image_name": "ref_seg_62.jp2",
+    "question_id": 295,
+    "prompt": "Identify and segment areas covered by forest in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_62_q295_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_62_q295_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_270.png"
+  },
+  {
+    "image_name": "ref_seg_62.jp2",
+    "question_id": 296,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_62_q296_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_62_q296_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_515.png"
+  },
+  {
+    "image_name": "ref_seg_62.jp2",
+    "question_id": 297,
+    "prompt": "Identify and segment agricultural land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_62_q297_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_62_q297_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_425.png"
+  },
+  {
+    "image_name": "ref_seg_62.jp2",
+    "question_id": 298,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_62_q298_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_62_q298_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_169.png"
+  },
+  {
+    "image_name": "ref_seg_62.jp2",
+    "question_id": 299,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_62_q299_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_62_q299_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_202.png"
+  },
+  {
+    "image_name": "ref_seg_62.jp2",
+    "question_id": 300,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_62_q300_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_62_q300_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_14.png"
+  },
+  {
+    "image_name": "ref_seg_62.jp2",
+    "question_id": 301,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_62_q301_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_62_q301_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_166.png"
+  },
+  {
+    "image_name": "ref_seg_23.jp2",
+    "question_id": 302,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_23_q302_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_23_q302_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_135.png"
+  },
+  {
+    "image_name": "ref_seg_23.jp2",
+    "question_id": 303,
+    "prompt": "Identify and segment agricultural land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_23_q303_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_23_q303_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_495.png"
+  },
+  {
+    "image_name": "ref_seg_23.jp2",
+    "question_id": 304,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_23_q304_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_23_q304_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_346.png"
+  },
+  {
+    "image_name": "ref_seg_23.jp2",
+    "question_id": 305,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_23_q305_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_23_q305_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_433.png"
+  },
+  {
+    "image_name": "ref_seg_23.jp2",
+    "question_id": 306,
+    "prompt": "Identify and segment highway and square areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_23_q306_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_23_q306_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_168.png"
+  },
+  {
+    "image_name": "ref_seg_23.jp2",
+    "question_id": 307,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_23_q307_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_23_q307_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_291.png"
+  },
+  {
+    "image_name": "ref_seg_23.jp2",
+    "question_id": 308,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_23_q308_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_23_q308_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_190.png"
+  },
+  {
+    "image_name": "ref_seg_88.jp2",
+    "question_id": 309,
+    "prompt": "Identify and segment areas covered by forest in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_88_q309_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_88_q309_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_165.png"
+  },
+  {
+    "image_name": "ref_seg_88.jp2",
+    "question_id": 310,
+    "prompt": "Identify and segment agricultural land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_88_q310_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_88_q310_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_454.png"
+  },
+  {
+    "image_name": "ref_seg_88.jp2",
+    "question_id": 311,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_88_q311_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_88_q311_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_79.png"
+  },
+  {
+    "image_name": "ref_seg_88.jp2",
+    "question_id": 312,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_88_q312_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_88_q312_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_129.png"
+  },
+  {
+    "image_name": "ref_seg_88.jp2",
+    "question_id": 313,
+    "prompt": "Identify and segment highway and square areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_88_q313_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_88_q313_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_130.png"
+  },
+  {
+    "image_name": "ref_seg_88.jp2",
+    "question_id": 314,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_88_q314_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_88_q314_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_341.png"
+  },
+  {
+    "image_name": "ref_seg_88.jp2",
+    "question_id": 315,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_88_q315_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_88_q315_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_519.png"
+  },
+  {
+    "image_name": "ref_seg_77.jp2",
+    "question_id": 316,
+    "prompt": "Identify and segment areas covered by forest in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_77_q316_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_77_q316_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_329.png"
+  },
+  {
+    "image_name": "ref_seg_77.jp2",
+    "question_id": 317,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_77_q317_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_77_q317_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_39.png"
+  },
+  {
+    "image_name": "ref_seg_77.jp2",
+    "question_id": 318,
+    "prompt": "Identify and segment agricultural land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_77_q318_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_77_q318_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_82.png"
+  },
+  {
+    "image_name": "ref_seg_77.jp2",
+    "question_id": 319,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_77_q319_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_77_q319_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_303.png"
+  },
+  {
+    "image_name": "ref_seg_77.jp2",
+    "question_id": 320,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_77_q320_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_77_q320_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_244.png"
+  },
+  {
+    "image_name": "ref_seg_77.jp2",
+    "question_id": 321,
+    "prompt": "Identify and segment highway and square areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_77_q321_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_77_q321_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_489.png"
+  },
+  {
+    "image_name": "ref_seg_77.jp2",
+    "question_id": 322,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_77_q322_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_77_q322_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_212.png"
+  },
+  {
+    "image_name": "ref_seg_77.jp2",
+    "question_id": 323,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_77_q323_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_77_q323_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_152.png"
+  },
+  {
+    "image_name": "ref_seg_32.jp2",
+    "question_id": 324,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_32_q324_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_32_q324_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_414.png"
+  },
+  {
+    "image_name": "ref_seg_32.jp2",
+    "question_id": 325,
+    "prompt": "Identify and segment agricultural land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_32_q325_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_32_q325_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_183.png"
+  },
+  {
+    "image_name": "ref_seg_32.jp2",
+    "question_id": 326,
+    "prompt": "Identify and segment residential, commercial, and industrial areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_32_q326_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_32_q326_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_464.png"
+  },
+  {
+    "image_name": "ref_seg_32.jp2",
+    "question_id": 327,
+    "prompt": "Identify and segment grassland, swamp, and shrubbery areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_32_q327_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_32_q327_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_0.png"
+  },
+  {
+    "image_name": "ref_seg_32.jp2",
+    "question_id": 328,
+    "prompt": "Identify and segment highway and square areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_32_q328_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_32_q328_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_199.png"
+  },
+  {
+    "image_name": "ref_seg_32.jp2",
+    "question_id": 329,
+    "prompt": "Identify and segment roads in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_32_q329_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_32_q329_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_361.png"
+  },
+  {
+    "image_name": "ref_seg_32.jp2",
+    "question_id": 330,
+    "prompt": "Identify and segment buildings in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_32_q330_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_32_q330_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_327.png"
+  },
+  {
+    "image_name": "ref_seg_98.jpg",
+    "question_id": 331,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_98_q331_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_98_q331_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_383.png"
+  },
+  {
+    "image_name": "ref_seg_98.jpg",
+    "question_id": 332,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_98_q332_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_98_q332_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_80.png"
+  },
+  {
+    "image_name": "ref_seg_98.jpg",
+    "question_id": 333,
+    "prompt": "Identify and segment areas classified as rangeland in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_98_q333_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_98_q333_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_498.png"
+  },
+  {
+    "image_name": "ref_seg_98.jpg",
+    "question_id": 334,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_98_q334_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_98_q334_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_50.png"
+  },
+  {
+    "image_name": "ref_seg_98.jpg",
+    "question_id": 335,
+    "prompt": "Identify and segment barren land areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_98_q335_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_98_q335_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_417.png"
+  },
+  {
+    "image_name": "ref_seg_35.jpg",
+    "question_id": 336,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_35_q336_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_35_q336_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_340.png"
+  },
+  {
+    "image_name": "ref_seg_35.jpg",
+    "question_id": 337,
+    "prompt": "Identify and segment areas classified as rangeland in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_35_q337_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_35_q337_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_62.png"
+  },
+  {
+    "image_name": "ref_seg_35.jpg",
+    "question_id": 338,
+    "prompt": "Identify and segment areas covered by forest land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_35_q338_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_35_q338_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_358.png"
+  },
+  {
+    "image_name": "ref_seg_35.jpg",
+    "question_id": 339,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_35_q339_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_35_q339_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_319.png"
+  },
+  {
+    "image_name": "ref_seg_35.jpg",
+    "question_id": 340,
+    "prompt": "Identify and segment barren land areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_35_q340_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_35_q340_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_463.png"
+  },
+  {
+    "image_name": "ref_seg_95.jpg",
+    "question_id": 341,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_95_q341_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_95_q341_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_47.png"
+  },
+  {
+    "image_name": "ref_seg_95.jpg",
+    "question_id": 342,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_95_q342_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_95_q342_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_332.png"
+  },
+  {
+    "image_name": "ref_seg_95.jpg",
+    "question_id": 343,
+    "prompt": "Identify and segment areas classified as rangeland in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_95_q343_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_95_q343_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_451.png"
+  },
+  {
+    "image_name": "ref_seg_95.jpg",
+    "question_id": 344,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_95_q344_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_95_q344_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_282.png"
+  },
+  {
+    "image_name": "ref_seg_56.jpg",
+    "question_id": 345,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_56_q345_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_56_q345_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_325.png"
+  },
+  {
+    "image_name": "ref_seg_56.jpg",
+    "question_id": 346,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_56_q346_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_56_q346_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_264.png"
+  },
+  {
+    "image_name": "ref_seg_56.jpg",
+    "question_id": 347,
+    "prompt": "Identify and segment areas classified as rangeland in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_56_q347_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_56_q347_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_93.png"
+  },
+  {
+    "image_name": "ref_seg_56.jpg",
+    "question_id": 348,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_56_q348_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_56_q348_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_185.png"
+  },
+  {
+    "image_name": "ref_seg_56.jpg",
+    "question_id": 349,
+    "prompt": "Identify and segment barren land areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_56_q349_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_56_q349_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_260.png"
+  },
+  {
+    "image_name": "ref_seg_5.jpg",
+    "question_id": 350,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_5_q350_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_5_q350_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_418.png"
+  },
+  {
+    "image_name": "ref_seg_5.jpg",
+    "question_id": 351,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_5_q351_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_5_q351_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_500.png"
+  },
+  {
+    "image_name": "ref_seg_5.jpg",
+    "question_id": 352,
+    "prompt": "Identify and segment areas classified as rangeland in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_5_q352_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_5_q352_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_324.png"
+  },
+  {
+    "image_name": "ref_seg_5.jpg",
+    "question_id": 353,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_5_q353_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_5_q353_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_172.png"
+  },
+  {
+    "image_name": "ref_seg_5.jpg",
+    "question_id": 354,
+    "prompt": "Identify and segment barren land areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_5_q354_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_5_q354_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_133.png"
+  },
+  {
+    "image_name": "ref_seg_64.jpg",
+    "question_id": 355,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_64_q355_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_64_q355_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_118.png"
+  },
+  {
+    "image_name": "ref_seg_64.jpg",
+    "question_id": 356,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_64_q356_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_64_q356_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_472.png"
+  },
+  {
+    "image_name": "ref_seg_64.jpg",
+    "question_id": 357,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_64_q357_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_64_q357_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_237.png"
+  },
+  {
+    "image_name": "ref_seg_80.jpg",
+    "question_id": 358,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_80_q358_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_80_q358_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_5.png"
+  },
+  {
+    "image_name": "ref_seg_80.jpg",
+    "question_id": 359,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_80_q359_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_80_q359_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_486.png"
+  },
+  {
+    "image_name": "ref_seg_80.jpg",
+    "question_id": 360,
+    "prompt": "Identify and segment areas covered by forest land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_80_q360_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_80_q360_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_86.png"
+  },
+  {
+    "image_name": "ref_seg_80.jpg",
+    "question_id": 361,
+    "prompt": "Identify and segment barren land areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_80_q361_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_80_q361_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_493.png"
+  },
+  {
+    "image_name": "ref_seg_25.jpg",
+    "question_id": 362,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_25_q362_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_25_q362_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_61.png"
+  },
+  {
+    "image_name": "ref_seg_25.jpg",
+    "question_id": 363,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_25_q363_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_25_q363_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_63.png"
+  },
+  {
+    "image_name": "ref_seg_25.jpg",
+    "question_id": 364,
+    "prompt": "Identify and segment areas classified as rangeland in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_25_q364_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_25_q364_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_46.png"
+  },
+  {
+    "image_name": "ref_seg_25.jpg",
+    "question_id": 365,
+    "prompt": "Identify and segment areas covered by forest land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_25_q365_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_25_q365_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_92.png"
+  },
+  {
+    "image_name": "ref_seg_25.jpg",
+    "question_id": 366,
+    "prompt": "Identify and segment barren land areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_25_q366_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_25_q366_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_430.png"
+  },
+  {
+    "image_name": "ref_seg_73.jpg",
+    "question_id": 367,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_73_q367_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_73_q367_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_416.png"
+  },
+  {
+    "image_name": "ref_seg_73.jpg",
+    "question_id": 368,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_73_q368_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_73_q368_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_189.png"
+  },
+  {
+    "image_name": "ref_seg_73.jpg",
+    "question_id": 369,
+    "prompt": "Identify and segment areas classified as rangeland in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_73_q369_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_73_q369_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_254.png"
+  },
+  {
+    "image_name": "ref_seg_73.jpg",
+    "question_id": 370,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_73_q370_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_73_q370_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_75.png"
+  },
+  {
+    "image_name": "ref_seg_73.jpg",
+    "question_id": 371,
+    "prompt": "Identify and segment barren land areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_73_q371_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_73_q371_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_484.png"
+  },
+  {
+    "image_name": "ref_seg_72.jpg",
+    "question_id": 372,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_72_q372_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_72_q372_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_71.png"
+  },
+  {
+    "image_name": "ref_seg_72.jpg",
+    "question_id": 373,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_72_q373_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_72_q373_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_87.png"
+  },
+  {
+    "image_name": "ref_seg_72.jpg",
+    "question_id": 374,
+    "prompt": "Identify and segment barren land areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_72_q374_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_72_q374_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_521.png"
+  },
+  {
+    "image_name": "ref_seg_39.jpg",
+    "question_id": 375,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_39_q375_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_39_q375_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_322.png"
+  },
+  {
+    "image_name": "ref_seg_39.jpg",
+    "question_id": 376,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_39_q376_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_39_q376_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_188.png"
+  },
+  {
+    "image_name": "ref_seg_39.jpg",
+    "question_id": 377,
+    "prompt": "Identify and segment areas classified as rangeland in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_39_q377_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_39_q377_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_229.png"
+  },
+  {
+    "image_name": "ref_seg_39.jpg",
+    "question_id": 378,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_39_q378_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_39_q378_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_502.png"
+  },
+  {
+    "image_name": "ref_seg_39.jpg",
+    "question_id": 379,
+    "prompt": "Identify and segment barren land areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_39_q379_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_39_q379_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_49.png"
+  },
+  {
+    "image_name": "ref_seg_61.jpg",
+    "question_id": 380,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_61_q380_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_61_q380_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_96.png"
+  },
+  {
+    "image_name": "ref_seg_61.jpg",
+    "question_id": 381,
+    "prompt": "Identify and segment areas classified as rangeland in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_61_q381_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_61_q381_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_67.png"
+  },
+  {
+    "image_name": "ref_seg_61.jpg",
+    "question_id": 382,
+    "prompt": "Identify and segment areas covered by forest land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_61_q382_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_61_q382_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_245.png"
+  },
+  {
+    "image_name": "ref_seg_61.jpg",
+    "question_id": 383,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_61_q383_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_61_q383_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_31.png"
+  },
+  {
+    "image_name": "ref_seg_61.jpg",
+    "question_id": 384,
+    "prompt": "Identify and segment barren land areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_61_q384_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_61_q384_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_193.png"
+  },
+  {
+    "image_name": "ref_seg_59.jpg",
+    "question_id": 385,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_59_q385_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_59_q385_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_288.png"
+  },
+  {
+    "image_name": "ref_seg_59.jpg",
+    "question_id": 386,
+    "prompt": "Identify and segment areas classified as rangeland in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_59_q386_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_59_q386_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_162.png"
+  },
+  {
+    "image_name": "ref_seg_59.jpg",
+    "question_id": 387,
+    "prompt": "Identify and segment areas covered by forest land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_59_q387_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_59_q387_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_488.png"
+  },
+  {
+    "image_name": "ref_seg_59.jpg",
+    "question_id": 388,
+    "prompt": "Identify and segment barren land areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_59_q388_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_59_q388_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_326.png"
+  },
+  {
+    "image_name": "ref_seg_93.jpg",
+    "question_id": 389,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_93_q389_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_93_q389_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_192.png"
+  },
+  {
+    "image_name": "ref_seg_93.jpg",
+    "question_id": 390,
+    "prompt": "Identify and segment areas classified as rangeland in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_93_q390_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_93_q390_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_438.png"
+  },
+  {
+    "image_name": "ref_seg_93.jpg",
+    "question_id": 391,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_93_q391_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_93_q391_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_465.png"
+  },
+  {
+    "image_name": "ref_seg_93.jpg",
+    "question_id": 392,
+    "prompt": "Identify and segment barren land areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_93_q392_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_93_q392_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_205.png"
+  },
+  {
+    "image_name": "ref_seg_20.jpg",
+    "question_id": 393,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_20_q393_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_20_q393_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_300.png"
+  },
+  {
+    "image_name": "ref_seg_20.jpg",
+    "question_id": 394,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_20_q394_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_20_q394_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_403.png"
+  },
+  {
+    "image_name": "ref_seg_20.jpg",
+    "question_id": 395,
+    "prompt": "Identify and segment areas covered by forest land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_20_q395_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_20_q395_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_167.png"
+  },
+  {
+    "image_name": "ref_seg_60.jpg",
+    "question_id": 396,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_60_q396_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_60_q396_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_450.png"
+  },
+  {
+    "image_name": "ref_seg_60.jpg",
+    "question_id": 397,
+    "prompt": "Identify and segment areas covered by forest land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_60_q397_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_60_q397_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_258.png"
+  },
+  {
+    "image_name": "ref_seg_60.jpg",
+    "question_id": 398,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_60_q398_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_60_q398_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_239.png"
+  },
+  {
+    "image_name": "ref_seg_60.jpg",
+    "question_id": 399,
+    "prompt": "Identify and segment barren land areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_60_q399_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_60_q399_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_4.png"
+  },
+  {
+    "image_name": "ref_seg_85.jpg",
+    "question_id": 400,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_85_q400_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_85_q400_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_72.png"
+  },
+  {
+    "image_name": "ref_seg_85.jpg",
+    "question_id": 401,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_85_q401_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_85_q401_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_58.png"
+  },
+  {
+    "image_name": "ref_seg_85.jpg",
+    "question_id": 402,
+    "prompt": "Identify and segment areas classified as rangeland in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_85_q402_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_85_q402_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_221.png"
+  },
+  {
+    "image_name": "ref_seg_85.jpg",
+    "question_id": 403,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_85_q403_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_85_q403_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_431.png"
+  },
+  {
+    "image_name": "ref_seg_85.jpg",
+    "question_id": 404,
+    "prompt": "Identify and segment barren land areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_85_q404_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_85_q404_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_236.png"
+  },
+  {
+    "image_name": "ref_seg_29.jpg",
+    "question_id": 405,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_29_q405_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_29_q405_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_524.png"
+  },
+  {
+    "image_name": "ref_seg_29.jpg",
+    "question_id": 406,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_29_q406_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_29_q406_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_434.png"
+  },
+  {
+    "image_name": "ref_seg_29.jpg",
+    "question_id": 407,
+    "prompt": "Identify and segment barren land areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_29_q407_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_29_q407_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_38.png"
+  },
+  {
+    "image_name": "ref_seg_66.jpg",
+    "question_id": 408,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_66_q408_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_66_q408_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_298.png"
+  },
+  {
+    "image_name": "ref_seg_66.jpg",
+    "question_id": 409,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_66_q409_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_66_q409_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_7.png"
+  },
+  {
+    "image_name": "ref_seg_66.jpg",
+    "question_id": 410,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_66_q410_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_66_q410_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_77.png"
+  },
+  {
+    "image_name": "ref_seg_17.jpg",
+    "question_id": 411,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_17_q411_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_17_q411_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_379.png"
+  },
+  {
+    "image_name": "ref_seg_17.jpg",
+    "question_id": 412,
+    "prompt": "Identify and segment areas covered by forest land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_17_q412_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_17_q412_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_504.png"
+  },
+  {
+    "image_name": "ref_seg_17.jpg",
+    "question_id": 413,
+    "prompt": "Identify and segment barren land areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_17_q413_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_17_q413_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_217.png"
+  },
+  {
+    "image_name": "ref_seg_0.jpg",
+    "question_id": 414,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_0_q414_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_0_q414_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_69.png"
+  },
+  {
+    "image_name": "ref_seg_0.jpg",
+    "question_id": 415,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_0_q415_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_0_q415_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_41.png"
+  },
+  {
+    "image_name": "ref_seg_0.jpg",
+    "question_id": 416,
+    "prompt": "Identify and segment areas classified as rangeland in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_0_q416_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_0_q416_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_405.png"
+  },
+  {
+    "image_name": "ref_seg_0.jpg",
+    "question_id": 417,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_0_q417_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_0_q417_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_136.png"
+  },
+  {
+    "image_name": "ref_seg_46.jpg",
+    "question_id": 418,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_46_q418_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_46_q418_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_271.png"
+  },
+  {
+    "image_name": "ref_seg_46.jpg",
+    "question_id": 419,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_46_q419_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_46_q419_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_320.png"
+  },
+  {
+    "image_name": "ref_seg_46.jpg",
+    "question_id": 420,
+    "prompt": "Identify and segment areas classified as rangeland in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_46_q420_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_46_q420_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_127.png"
+  },
+  {
+    "image_name": "ref_seg_46.jpg",
+    "question_id": 421,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_46_q421_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_46_q421_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_85.png"
+  },
+  {
+    "image_name": "ref_seg_46.jpg",
+    "question_id": 422,
+    "prompt": "Identify and segment barren land areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_46_q422_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_46_q422_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_406.png"
+  },
+  {
+    "image_name": "ref_seg_70.jpg",
+    "question_id": 423,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_70_q423_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_70_q423_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_143.png"
+  },
+  {
+    "image_name": "ref_seg_70.jpg",
+    "question_id": 424,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_70_q424_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_70_q424_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_16.png"
+  },
+  {
+    "image_name": "ref_seg_70.jpg",
+    "question_id": 425,
+    "prompt": "Identify and segment areas covered by forest land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_70_q425_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_70_q425_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_371.png"
+  },
+  {
+    "image_name": "ref_seg_70.jpg",
+    "question_id": 426,
+    "prompt": "Identify and segment barren land areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_70_q426_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_70_q426_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_181.png"
+  },
+  {
+    "image_name": "ref_seg_82.jpg",
+    "question_id": 427,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_82_q427_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_82_q427_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_24.png"
+  },
+  {
+    "image_name": "ref_seg_82.jpg",
+    "question_id": 428,
+    "prompt": "Identify and segment areas classified as rangeland in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_82_q428_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_82_q428_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_19.png"
+  },
+  {
+    "image_name": "ref_seg_82.jpg",
+    "question_id": 429,
+    "prompt": "Identify and segment areas covered by forest land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_82_q429_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_82_q429_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_160.png"
+  },
+  {
+    "image_name": "ref_seg_82.jpg",
+    "question_id": 430,
+    "prompt": "Identify and segment barren land areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_82_q430_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_82_q430_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_171.png"
+  },
+  {
+    "image_name": "ref_seg_81.jpg",
+    "question_id": 431,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_81_q431_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_81_q431_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_121.png"
+  },
+  {
+    "image_name": "ref_seg_81.jpg",
+    "question_id": 432,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_81_q432_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_81_q432_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_43.png"
+  },
+  {
+    "image_name": "ref_seg_81.jpg",
+    "question_id": 433,
+    "prompt": "Identify and segment areas classified as rangeland in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_81_q433_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_81_q433_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_362.png"
+  },
+  {
+    "image_name": "ref_seg_81.jpg",
+    "question_id": 434,
+    "prompt": "Identify and segment areas covered by forest land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_81_q434_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_81_q434_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_466.png"
+  },
+  {
+    "image_name": "ref_seg_81.jpg",
+    "question_id": 435,
+    "prompt": "Identify and segment barren land areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_81_q435_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_81_q435_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_398.png"
+  },
+  {
+    "image_name": "ref_seg_10.jpg",
+    "question_id": 436,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_10_q436_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_10_q436_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_3.png"
+  },
+  {
+    "image_name": "ref_seg_10.jpg",
+    "question_id": 437,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_10_q437_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_10_q437_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_32.png"
+  },
+  {
+    "image_name": "ref_seg_10.jpg",
+    "question_id": 438,
+    "prompt": "Identify and segment areas classified as rangeland in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_10_q438_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_10_q438_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_283.png"
+  },
+  {
+    "image_name": "ref_seg_10.jpg",
+    "question_id": 439,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_10_q439_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_10_q439_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_29.png"
+  },
+  {
+    "image_name": "ref_seg_3.jpg",
+    "question_id": 440,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_3_q440_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_3_q440_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_384.png"
+  },
+  {
+    "image_name": "ref_seg_3.jpg",
+    "question_id": 441,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_3_q441_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_3_q441_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_393.png"
+  },
+  {
+    "image_name": "ref_seg_3.jpg",
+    "question_id": 442,
+    "prompt": "Identify and segment areas classified as rangeland in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_3_q442_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_3_q442_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_284.png"
+  },
+  {
+    "image_name": "ref_seg_3.jpg",
+    "question_id": 443,
+    "prompt": "Identify and segment areas covered by forest land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_3_q443_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_3_q443_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_301.png"
+  },
+  {
+    "image_name": "ref_seg_3.jpg",
+    "question_id": 444,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_3_q444_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_3_q444_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_158.png"
+  },
+  {
+    "image_name": "ref_seg_3.jpg",
+    "question_id": 445,
+    "prompt": "Identify and segment barren land areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_3_q445_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_3_q445_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_208.png"
+  },
+  {
+    "image_name": "ref_seg_65.jpg",
+    "question_id": 446,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_65_q446_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_65_q446_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_432.png"
+  },
+  {
+    "image_name": "ref_seg_65.jpg",
+    "question_id": 447,
+    "prompt": "Identify and segment areas classified as rangeland in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_65_q447_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_65_q447_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_119.png"
+  },
+  {
+    "image_name": "ref_seg_43.jpg",
+    "question_id": 448,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_43_q448_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_43_q448_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_44.png"
+  },
+  {
+    "image_name": "ref_seg_43.jpg",
+    "question_id": 449,
+    "prompt": "Identify and segment areas classified as rangeland in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_43_q449_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_43_q449_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_490.png"
+  },
+  {
+    "image_name": "ref_seg_43.jpg",
+    "question_id": 450,
+    "prompt": "Identify and segment areas covered by forest land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_43_q450_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_43_q450_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_37.png"
+  },
+  {
+    "image_name": "ref_seg_43.jpg",
+    "question_id": 451,
+    "prompt": "Identify and segment barren land areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_43_q451_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_43_q451_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_252.png"
+  },
+  {
+    "image_name": "ref_seg_45.jpg",
+    "question_id": 452,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_45_q452_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_45_q452_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_112.png"
+  },
+  {
+    "image_name": "ref_seg_45.jpg",
+    "question_id": 453,
+    "prompt": "Identify and segment areas classified as rangeland in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_45_q453_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_45_q453_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_280.png"
+  },
+  {
+    "image_name": "ref_seg_45.jpg",
+    "question_id": 454,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_45_q454_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_45_q454_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_27.png"
+  },
+  {
+    "image_name": "ref_seg_45.jpg",
+    "question_id": 455,
+    "prompt": "Identify and segment barren land areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_45_q455_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_45_q455_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_40.png"
+  },
+  {
+    "image_name": "ref_seg_16.jpg",
+    "question_id": 456,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_16_q456_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_16_q456_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_512.png"
+  },
+  {
+    "image_name": "ref_seg_16.jpg",
+    "question_id": 457,
+    "prompt": "Identify and segment areas covered by forest land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_16_q457_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_16_q457_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_511.png"
+  },
+  {
+    "image_name": "ref_seg_16.jpg",
+    "question_id": 458,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_16_q458_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_16_q458_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_115.png"
+  },
+  {
+    "image_name": "ref_seg_16.jpg",
+    "question_id": 459,
+    "prompt": "Identify and segment barren land areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_16_q459_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_16_q459_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_276.png"
+  },
+  {
+    "image_name": "ref_seg_83.jpg",
+    "question_id": 460,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_83_q460_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_83_q460_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_200.png"
+  },
+  {
+    "image_name": "ref_seg_83.jpg",
+    "question_id": 461,
+    "prompt": "Identify and segment areas classified as rangeland in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_83_q461_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_83_q461_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_36.png"
+  },
+  {
+    "image_name": "ref_seg_83.jpg",
+    "question_id": 462,
+    "prompt": "Identify and segment areas covered by forest land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_83_q462_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_83_q462_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_523.png"
+  },
+  {
+    "image_name": "ref_seg_83.jpg",
+    "question_id": 463,
+    "prompt": "Identify and segment barren land areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_83_q463_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_83_q463_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_164.png"
+  },
+  {
+    "image_name": "ref_seg_53.jpg",
+    "question_id": 464,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_53_q464_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_53_q464_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_102.png"
+  },
+  {
+    "image_name": "ref_seg_53.jpg",
+    "question_id": 465,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_53_q465_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_53_q465_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_513.png"
+  },
+  {
+    "image_name": "ref_seg_53.jpg",
+    "question_id": 466,
+    "prompt": "Identify and segment areas classified as rangeland in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_53_q466_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_53_q466_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_125.png"
+  },
+  {
+    "image_name": "ref_seg_53.jpg",
+    "question_id": 467,
+    "prompt": "Identify and segment areas covered by forest land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_53_q467_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_53_q467_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_457.png"
+  },
+  {
+    "image_name": "ref_seg_47.jpg",
+    "question_id": 468,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_47_q468_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_47_q468_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_263.png"
+  },
+  {
+    "image_name": "ref_seg_47.jpg",
+    "question_id": 469,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_47_q469_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_47_q469_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_154.png"
+  },
+  {
+    "image_name": "ref_seg_47.jpg",
+    "question_id": 470,
+    "prompt": "Identify and segment areas classified as rangeland in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_47_q470_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_47_q470_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_491.png"
+  },
+  {
+    "image_name": "ref_seg_47.jpg",
+    "question_id": 471,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_47_q471_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_47_q471_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_397.png"
+  },
+  {
+    "image_name": "ref_seg_67.jpg",
+    "question_id": 472,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_67_q472_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_67_q472_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_203.png"
+  },
+  {
+    "image_name": "ref_seg_67.jpg",
+    "question_id": 473,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_67_q473_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_67_q473_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_17.png"
+  },
+  {
+    "image_name": "ref_seg_67.jpg",
+    "question_id": 474,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_67_q474_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_67_q474_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_101.png"
+  },
+  {
+    "image_name": "ref_seg_67.jpg",
+    "question_id": 475,
+    "prompt": "Identify and segment barren land areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_67_q475_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_67_q475_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_485.png"
+  },
+  {
+    "image_name": "ref_seg_99.jpg",
+    "question_id": 476,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_99_q476_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_99_q476_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_196.png"
+  },
+  {
+    "image_name": "ref_seg_99.jpg",
+    "question_id": 477,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_99_q477_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_99_q477_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_477.png"
+  },
+  {
+    "image_name": "ref_seg_99.jpg",
+    "question_id": 478,
+    "prompt": "Identify and segment areas classified as rangeland in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_99_q478_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_99_q478_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_286.png"
+  },
+  {
+    "image_name": "ref_seg_99.jpg",
+    "question_id": 479,
+    "prompt": "Identify and segment areas covered by forest land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_99_q479_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_99_q479_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_331.png"
+  },
+  {
+    "image_name": "ref_seg_99.jpg",
+    "question_id": 480,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_99_q480_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_99_q480_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_313.png"
+  },
+  {
+    "image_name": "ref_seg_22.jpg",
+    "question_id": 481,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_22_q481_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_22_q481_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_309.png"
+  },
+  {
+    "image_name": "ref_seg_22.jpg",
+    "question_id": 482,
+    "prompt": "Identify and segment areas classified as rangeland in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_22_q482_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_22_q482_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_467.png"
+  },
+  {
+    "image_name": "ref_seg_49.jpg",
+    "question_id": 483,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_49_q483_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_49_q483_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_226.png"
+  },
+  {
+    "image_name": "ref_seg_49.jpg",
+    "question_id": 484,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_49_q484_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_49_q484_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_21.png"
+  },
+  {
+    "image_name": "ref_seg_49.jpg",
+    "question_id": 485,
+    "prompt": "Identify and segment areas classified as rangeland in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_49_q485_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_49_q485_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_494.png"
+  },
+  {
+    "image_name": "ref_seg_74.jpg",
+    "question_id": 486,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_74_q486_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_74_q486_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_367.png"
+  },
+  {
+    "image_name": "ref_seg_74.jpg",
+    "question_id": 487,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_74_q487_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_74_q487_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_335.png"
+  },
+  {
+    "image_name": "ref_seg_74.jpg",
+    "question_id": 488,
+    "prompt": "Identify and segment barren land areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_74_q488_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_74_q488_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_437.png"
+  },
+  {
+    "image_name": "ref_seg_69.jpg",
+    "question_id": 489,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_69_q489_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_69_q489_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_116.png"
+  },
+  {
+    "image_name": "ref_seg_69.jpg",
+    "question_id": 490,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_69_q490_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_69_q490_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_476.png"
+  },
+  {
+    "image_name": "ref_seg_69.jpg",
+    "question_id": 491,
+    "prompt": "Identify and segment areas classified as rangeland in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_69_q491_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_69_q491_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_138.png"
+  },
+  {
+    "image_name": "ref_seg_18.jpg",
+    "question_id": 492,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_18_q492_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_18_q492_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_506.png"
+  },
+  {
+    "image_name": "ref_seg_18.jpg",
+    "question_id": 493,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_18_q493_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_18_q493_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_259.png"
+  },
+  {
+    "image_name": "ref_seg_18.jpg",
+    "question_id": 494,
+    "prompt": "Identify and segment areas classified as rangeland in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_18_q494_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_18_q494_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_407.png"
+  },
+  {
+    "image_name": "ref_seg_76.jpg",
+    "question_id": 495,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_76_q495_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_76_q495_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_231.png"
+  },
+  {
+    "image_name": "ref_seg_76.jpg",
+    "question_id": 496,
+    "prompt": "Identify and segment areas classified as rangeland in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_76_q496_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_76_q496_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_460.png"
+  },
+  {
+    "image_name": "ref_seg_76.jpg",
+    "question_id": 497,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_76_q497_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_76_q497_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_479.png"
+  },
+  {
+    "image_name": "ref_seg_76.jpg",
+    "question_id": 498,
+    "prompt": "Identify and segment barren land areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_76_q498_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_76_q498_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_342.png"
+  },
+  {
+    "image_name": "ref_seg_40.jpg",
+    "question_id": 499,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_40_q499_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_40_q499_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_6.png"
+  },
+  {
+    "image_name": "ref_seg_40.jpg",
+    "question_id": 500,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_40_q500_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_40_q500_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_233.png"
+  },
+  {
+    "image_name": "ref_seg_40.jpg",
+    "question_id": 501,
+    "prompt": "Identify and segment areas classified as rangeland in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_40_q501_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_40_q501_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_459.png"
+  },
+  {
+    "image_name": "ref_seg_40.jpg",
+    "question_id": 502,
+    "prompt": "Identify and segment areas covered by forest land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_40_q502_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_40_q502_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_194.png"
+  },
+  {
+    "image_name": "ref_seg_86.jpg",
+    "question_id": 503,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_86_q503_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_86_q503_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_206.png"
+  },
+  {
+    "image_name": "ref_seg_86.jpg",
+    "question_id": 504,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_86_q504_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_86_q504_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_423.png"
+  },
+  {
+    "image_name": "ref_seg_86.jpg",
+    "question_id": 505,
+    "prompt": "Identify and segment areas classified as rangeland in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_86_q505_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_86_q505_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_56.png"
+  },
+  {
+    "image_name": "ref_seg_44.jpg",
+    "question_id": 506,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_44_q506_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_44_q506_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_293.png"
+  },
+  {
+    "image_name": "ref_seg_44.jpg",
+    "question_id": 507,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_44_q507_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_44_q507_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_343.png"
+  },
+  {
+    "image_name": "ref_seg_44.jpg",
+    "question_id": 508,
+    "prompt": "Identify and segment barren land areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_44_q508_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_44_q508_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_214.png"
+  },
+  {
+    "image_name": "ref_seg_19.jpg",
+    "question_id": 509,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_19_q509_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_19_q509_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_449.png"
+  },
+  {
+    "image_name": "ref_seg_19.jpg",
+    "question_id": 510,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_19_q510_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_19_q510_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_120.png"
+  },
+  {
+    "image_name": "ref_seg_19.jpg",
+    "question_id": 511,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_19_q511_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_19_q511_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_315.png"
+  },
+  {
+    "image_name": "ref_seg_84.jpg",
+    "question_id": 512,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_84_q512_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_84_q512_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_305.png"
+  },
+  {
+    "image_name": "ref_seg_84.jpg",
+    "question_id": 513,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_84_q513_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_84_q513_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_453.png"
+  },
+  {
+    "image_name": "ref_seg_84.jpg",
+    "question_id": 514,
+    "prompt": "Identify and segment areas classified as rangeland in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_84_q514_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_84_q514_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_91.png"
+  },
+  {
+    "image_name": "ref_seg_84.jpg",
+    "question_id": 515,
+    "prompt": "Identify and segment areas covered by forest land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_84_q515_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_84_q515_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_392.png"
+  },
+  {
+    "image_name": "ref_seg_84.jpg",
+    "question_id": 516,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_84_q516_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_84_q516_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_389.png"
+  },
+  {
+    "image_name": "ref_seg_84.jpg",
+    "question_id": 517,
+    "prompt": "Identify and segment barren land areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_84_q517_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_84_q517_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_241.png"
+  },
+  {
+    "image_name": "ref_seg_50.jpg",
+    "question_id": 518,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_50_q518_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_50_q518_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_399.png"
+  },
+  {
+    "image_name": "ref_seg_50.jpg",
+    "question_id": 519,
+    "prompt": "Identify and segment areas covered by forest land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_50_q519_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_50_q519_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_359.png"
+  },
+  {
+    "image_name": "ref_seg_50.jpg",
+    "question_id": 520,
+    "prompt": "Identify and segment barren land areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_50_q520_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_50_q520_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_333.png"
+  },
+  {
+    "image_name": "ref_seg_42.jpg",
+    "question_id": 521,
+    "prompt": "Identify and segment areas classified as urban land in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_42_q521_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_42_q521_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_8.png"
+  },
+  {
+    "image_name": "ref_seg_42.jpg",
+    "question_id": 522,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_42_q522_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_42_q522_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_242.png"
+  },
+  {
+    "image_name": "ref_seg_42.jpg",
+    "question_id": 523,
+    "prompt": "Identify and segment areas classified as rangeland in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_42_q523_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_42_q523_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_510.png"
+  },
+  {
+    "image_name": "ref_seg_42.jpg",
+    "question_id": 524,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_42_q524_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_42_q524_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_18.png"
+  },
+  {
+    "image_name": "ref_seg_42.jpg",
+    "question_id": 525,
+    "prompt": "Identify and segment barren land areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_42_q525_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_42_q525_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_274.png"
+  },
+  {
+    "image_name": "ref_seg_9.jpg",
+    "question_id": 526,
+    "prompt": "Identify and segment areas used for agriculture in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_9_q526_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_9_q526_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_408.png"
+  },
+  {
+    "image_name": "ref_seg_9.jpg",
+    "question_id": 527,
+    "prompt": "Identify and segment areas classified as rangeland in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_9_q527_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_9_q527_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_123.png"
+  },
+  {
+    "image_name": "ref_seg_9.jpg",
+    "question_id": 528,
+    "prompt": "Identify and segment bodies of water in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_9_q528_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_9_q528_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_76.png"
+  },
+  {
+    "image_name": "ref_seg_9.jpg",
+    "question_id": 529,
+    "prompt": "Identify and segment barren land areas in this image.",
+    "pred_mask_path": "testSegment/masks/ref_seg_9_q529_p0.png",
+    "overlay_path": "testSegment/overlays/ref_seg_9_q529_p0.png",
+    "gt_mask_path": "Ref-Seg/masks/mask_ref_seg_478.png"
+  }
+]
