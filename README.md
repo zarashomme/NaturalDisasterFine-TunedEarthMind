@@ -2,7 +2,8 @@
 
 This repo expands on the GEO Bench-VLM, novelly assessing EarthMind’s performance
 against other contemporary tested models below. I have discussed my primary findings below.
-Semantic Segmentation: Most notably, EarthMind addresses one of the key limitations you
+
+- Semantic Segmentation: Most notably, EarthMind addresses one of the key limitations you
 highlighted: it supports semantic segmentation, enabling direct evaluation on tasks formerly
 untestable by GEO Bench-VLM. EarthMind’s mIoU on segmentation tasks is slightly below
 GLAMM at around ~0.11. However, I also conducted some preliminary testing on specific
